@@ -1,6 +1,7 @@
 # AWS Network Architecture (with icons)
 
 
+
 ```mermaid
 architecture-beta
     service dns(logos:aws-route53)[Route 53]
